@@ -1,4 +1,4 @@
-# Data Analytics projects
-This is sales dataset where use python(pandas and matplotlib) to clean and analyze and create meaningful insights and use powerbi for visualization.
+# python_projects.ipynb
+This is collection dataset where use of python(pandas and matplotlib) to clean and analyze and create meaningful insights.
 
 
